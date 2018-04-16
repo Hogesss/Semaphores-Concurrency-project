@@ -1,0 +1,10 @@
+Student Name: Benjamin Hogan
+Student No: c3256846
+
+Input for P1 and P2 are as follows in the command line: N=xxx, S=yyy
+- where x and y are Integers relating to north and south farmers respectively.
+
+Input for P3 is in the form of a text file in command line, exactly the same as assignment specs.
+
+Programming Language used: Java
+Compiler Version: Java 7
